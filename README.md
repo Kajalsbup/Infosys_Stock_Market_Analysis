@@ -1,3 +1,6 @@
+![Dashboard](Screenshot%20(53).png)
+![Dashboard](Screenshot%20(52).png)
+
 # Infosys Stock Market Analysis Dashboard (2020–2025)
 
 ## Project Overview
